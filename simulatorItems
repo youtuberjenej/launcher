@@ -7,4 +7,6 @@ resources/images/game/persons/persontest3 simulator/resources/images/game/person
 resources/images/game/persons/persontest4 simulator/resources/images/game/persons/persontest4 .png
 resources/images/game/persons/persontest5 simulator/resources/images/game/persons/persontest5 .png
 resources/images/game/background simulator/resources/images/game/background .png
-resources/images/game/background simulator/resources/images/game/background .png
+resources/images/game/inGameLogo simulator/resources/images/game/inGameLogo .png
+resources/images/game/leftArrow simulator/resources/images/game/rightArrow .png
+resources/images/menu/GameLogo simulator/resources/images/menu/GameLogo .png
